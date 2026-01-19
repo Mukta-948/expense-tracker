@@ -14,6 +14,10 @@ A simple and responsive expense tracker web application built using React.
 - JavaScript
 - CSS
 
+  ## Screenshot
+![Expense Tracker App](screenshot.png)
+
+
 ## How to Run Locally
 ```bash
 npm install
